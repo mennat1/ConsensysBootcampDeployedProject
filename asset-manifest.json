@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ConsensysBootcampFinalProject/static/css/main.06af6865.chunk.css",
+    "main.js": "/ConsensysBootcampFinalProject/static/js/main.f9aff227.chunk.js",
+    "main.js.map": "/ConsensysBootcampFinalProject/static/js/main.f9aff227.chunk.js.map",
+    "runtime-main.js": "/ConsensysBootcampFinalProject/static/js/runtime-main.260f7dbe.js",
+    "runtime-main.js.map": "/ConsensysBootcampFinalProject/static/js/runtime-main.260f7dbe.js.map",
+    "static/css/2.98b51326.chunk.css": "/ConsensysBootcampFinalProject/static/css/2.98b51326.chunk.css",
+    "static/js/2.08f01f73.chunk.js": "/ConsensysBootcampFinalProject/static/js/2.08f01f73.chunk.js",
+    "static/js/2.08f01f73.chunk.js.map": "/ConsensysBootcampFinalProject/static/js/2.08f01f73.chunk.js.map",
+    "index.html": "/ConsensysBootcampFinalProject/index.html",
+    "precache-manifest.cb2b0bc12ae9f82efe38e761cd07c415.js": "/ConsensysBootcampFinalProject/precache-manifest.cb2b0bc12ae9f82efe38e761cd07c415.js",
+    "service-worker.js": "/ConsensysBootcampFinalProject/service-worker.js",
+    "static/css/2.98b51326.chunk.css.map": "/ConsensysBootcampFinalProject/static/css/2.98b51326.chunk.css.map",
+    "static/css/main.06af6865.chunk.css.map": "/ConsensysBootcampFinalProject/static/css/main.06af6865.chunk.css.map",
+    "static/media/App.css": "/ConsensysBootcampFinalProject/static/media/wallpaper.8c70efae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.260f7dbe.js",
+    "static/css/2.98b51326.chunk.css",
+    "static/js/2.08f01f73.chunk.js",
+    "static/css/main.06af6865.chunk.css",
+    "static/js/main.f9aff227.chunk.js"
+  ]
+}
