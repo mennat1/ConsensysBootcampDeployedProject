@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5efbb4a7c60a168b38106c5c403e8544",
+    "revision": "4709c1fa8524ecb9cca80d56b0dfd500",
     "url": "/ConsensysBootcampDeployedProject/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ConsensysBootcampDeployedProject/static/css/2.98b51326.chunk.css"
   },
   {
-    "revision": "3e8e7441fa38e15c3c30",
-    "url": "/ConsensysBootcampDeployedProject/static/css/main.183a033d.chunk.css"
+    "revision": "fc650ca4359595c0c0fc",
+    "url": "/ConsensysBootcampDeployedProject/static/css/main.6ebea566.chunk.css"
   },
   {
     "revision": "ffaae866e880423f334d",
     "url": "/ConsensysBootcampDeployedProject/static/js/2.08f01f73.chunk.js"
   },
   {
-    "revision": "3e8e7441fa38e15c3c30",
-    "url": "/ConsensysBootcampDeployedProject/static/js/main.a61bba3a.chunk.js"
+    "revision": "fc650ca4359595c0c0fc",
+    "url": "/ConsensysBootcampDeployedProject/static/js/main.ace55776.chunk.js"
   },
   {
     "revision": "c6488c481de62129995f",
